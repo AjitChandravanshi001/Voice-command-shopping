@@ -1,4 +1,4 @@
-🛍️ **Voice Command Shopping
+# 🛍️ Voice Command Shopping
 
 A React + Node.js web application that allows users to shop using voice commands.
 You can ask the assistant to show products or add items to your cart — completely hands-free! 🗣️✨
