@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "category": "audio",
+    "price": 59.99,
+    "description": "Comfortable wireless headphones"
+  },
+  {
+    "id": 2,
+    "title": "Smartphone XL",
+    "category": "phones",
+    "price": 399.99,
+    "description": "Large display smartphone"
+  },
+  {
+    "id": 3,
+    "title": "Bluetooth Speaker",
+    "category": "audio",
+    "price": 89.99,
+    "description": "Portable speaker"
+  }
+]
